@@ -1,3 +1,18 @@
+# Laravel 8 - Novidades
+## Code Experts
+
+### [Vídeos do curos](https://www.youtube.com/watch?v=ulWQZ8QWmas&list=PLswa9HeoJUq8_8xDGrXBy6MfLtjsSXkTJ)
+
+### Lista de aulas  
+
+Aula 01 - O início  
+Aula 02 - SchemaDump & Detalhes Sobre Rotas  
+Aula 03 - Factories Melhorias  
+Aula 04 - Rate Limiting  
+Aula 05 - Modo de Manutenção  
+Aula 06 - Conhecendo o Laravel Jetstream  
+Aula 07 - Laravel Jetstream em um Projeto já Existente  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
