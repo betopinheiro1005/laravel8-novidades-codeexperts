@@ -1,6 +1,8 @@
 # Laravel 8 - Novidades
 ## Code Experts
 
+### Instalação de dependências
+
 ```bash
 composer install
 ```
