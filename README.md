@@ -1,9 +1,11 @@
 # Laravel 8 - Novidades
 ## Code Experts
 
-### [Vídeos do curos](https://www.youtube.com/watch?v=ulWQZ8QWmas&list=PLswa9HeoJUq8_8xDGrXBy6MfLtjsSXkTJ)
+```bash
+composer install
+```
 
-### Lista de aulas  
+### Lista de aulas - [Vídeos do curos](https://www.youtube.com/watch?v=ulWQZ8QWmas&list=PLswa9HeoJUq8_8xDGrXBy6MfLtjsSXkTJ)  
 
 Aula 01 - O início  
 Aula 02 - SchemaDump & Detalhes Sobre Rotas  
